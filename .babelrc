@@ -1,0 +1,9 @@
+{
+  "presets": ["react", "env"],
+  "env": {
+    "production": {
+      "plugins": ["babel-plugin-transform-react-constant-elements"]
+    }
+  },
+  "plugins": []
+}
