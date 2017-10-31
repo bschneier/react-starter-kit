@@ -22,7 +22,6 @@
     "check-security": "nsp check"
   },
   "dependencies": {
-    "axios": "^0.17.0",
     "babel-polyfill": "^6.26.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
